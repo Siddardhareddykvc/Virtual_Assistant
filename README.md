@@ -35,6 +35,6 @@ To get started with NIVI, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Pavithrarapuru/nivi.git
+   git clone https://github.com/Siddardhareddykvc/nivi.git
 
    
